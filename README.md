@@ -9,10 +9,12 @@ In this course, we cover the essentials of Classical Machine Learning or the Pre
 * **Week 1-2: Linear Models and hyperparameters**
  * **Week 2-1: Classification - 1**
  * **Week 2-2: Classification - 2**
+ * MidSem Exam
   * **Week 3-1: Unsupervised Learning**
  * **Week 3-2: Introduction to Neural Networks**
  * **Week 4-1: Introduction to Tensorflow**
  * **Week 4-2: Introduction to Convolutional Neural Networks**
+ * EndSem Exam
 * *Exploring Beyond...*
 
 
